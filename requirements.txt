@@ -6,7 +6,7 @@ python-dotenv
 httpx
 beautifulsoup4
 lxml
-python-multipart
+python-multipart>=0.0.27
 tvdb_v4_official
 cryptography
 passlib
